@@ -760,7 +760,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@nestjs/schematics@^7.0.1":
+"@nestjs/schematics@7.0.1":
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/@nestjs/schematics/-/schematics-7.0.1.tgz#bb729d06223d8b4df1a65e94d8fac17ef1b45657"
   integrity sha512-MOnJPqKPpuwBHDdw96gHoshd/QEYrUlLPF92xQFXm6uIOo1EGISg8OOSoji2isEtp2gHpO+bL8p/h4oPG10Fqw==
@@ -1297,7 +1297,7 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^2.19.0":
+"@typescript-eslint/eslint-plugin@2.19.0":
   version "2.19.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-2.19.0.tgz#bf743448a4633e4b52bee0c40148ba072ab3adbd"
   integrity sha512-u7IcQ9qwsB6U806LupZmINRnQjC+RJyv36sV/ugaFWMHTbFm/hlLTRx3gGYJgHisxcGSTnf+I/fPDieRMhPSQQ==
@@ -1317,7 +1317,7 @@
     "@typescript-eslint/typescript-estree" "2.19.0"
     eslint-scope "^5.0.0"
 
-"@typescript-eslint/parser@^2.19.0":
+"@typescript-eslint/parser@2.19.0":
   version "2.19.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-2.19.0.tgz#912160d9425395d09857dcd5382352bc98be11ae"
   integrity sha512-s0jZoxAWjHnuidbbN7aA+BFVXn4TCcxEVGPV8lWMxZglSs3NRnFFAlL+aIENNmzB2/1jUJuySi6GiM6uACPmpg==
@@ -8795,7 +8795,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^3.6.4:
+typescript@3.7.4:
   version "3.7.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.4.tgz#1743a5ec5fef6a1fa9f3e4708e33c81c73876c19"
   integrity sha512-A25xv5XCtarLwXpcDNZzCGvW2D1S3/bACratYBx2sax8PefsFhlYmkQicKHvpYflFS8if4zne5zT5kpJ7pzuvw==
